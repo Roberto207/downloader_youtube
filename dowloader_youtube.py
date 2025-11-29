@@ -187,7 +187,7 @@ def main():
                     print(f"📅 Data de upload: {info['upload_date']}")
                     print(f"📝 Descrição: {info['description']}")
         
-        elif choice == "4":
+        elif choice == "5":
             print("👋 Até logo!")
             break
         
@@ -197,5 +197,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
 
